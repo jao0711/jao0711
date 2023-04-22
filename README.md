@@ -1,6 +1,8 @@
 
 - 🔭 Actually working with software development
 - 🌱 Studying JavaScript, HTML and CSS
+- 🔍 Discovering the world of Machine Learning
+- 🤯 Looking to become a full stack
 
 
 <div>
