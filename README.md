@@ -4,8 +4,8 @@
 
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jao0711&show_icons-true&theme=dracula&include_all_comits-true&count_private-true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao0711&layout-compact&langs-count-16&theme=dracula"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=jao0711&show_icons-true&theme=dracula&include_all_comits-true&count_private-true"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao0711&layout-compact&langs-count-16&theme=dracula"/>
 </div
 
 <div>
