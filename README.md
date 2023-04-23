@@ -1,4 +1,4 @@
-## Hello, Wolrd! 👋🏻
+## Hello, World! 👋🏻
 
 - 👨🏻‍💻 Actually working with software development
 - 🌱 Studying JavaScript, HTML and CSS
