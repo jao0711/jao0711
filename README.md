@@ -3,6 +3,7 @@
 - 🌱 Studying JavaScript, HTML and CSS
 - 🔍 Discovering the world of Machine Learning
 - 🤯 Looking to become a full stack
+- 📍 Santa Catarina, Brazil
 
 
 <div>
