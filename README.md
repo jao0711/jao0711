@@ -1,7 +1,7 @@
 ## Hello, World! 👋🏻
 
 - 👨🏻‍💻 Actually working with software development and data science 
-- 🌱 Studying HTML, CSS, JavaScript and PHP
+- 🌱 Studying HTML, CSS and JavaScript 
 - 🔍 Discovering the world of Machine Learning
 - 🤯 Looking to become a full stack
 - 📍 Santa Catarina, Brazil
