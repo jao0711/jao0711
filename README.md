@@ -1,6 +1,6 @@
 ## Hello, World! 👋🏻
 
-- 👨🏻‍💻 Actually working with software development
+- 👨🏻‍💻 Actually working with software development and data science 
 - 🌱 Studying JavaScript, HTML and CSS
 - 🔍 Discovering the world of Machine Learning
 - 🤯 Looking to become a full stack
