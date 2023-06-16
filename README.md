@@ -1,7 +1,6 @@
   <h3>About Me</h3>
   <ul>
     <li>👨🏻‍💻 Actually working with software development and data science</li>
-    <li>🌱 Studying HTML, CSS, and JavaScript</li>
     <li>🔍 Discovering the world of Machine Learning</li>
     <li>🤯 Looking to become a full stack</li>
     <li>📍 Santa Catarina, Brazil</li>
@@ -41,4 +40,13 @@
     <img align="center" alt="Brazil" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png">
     <img align="center" alt="USA" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png">
     <img align="center" alt="Spain" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png">
+  </div>
+
+<h3>Currently Studying</h3>
+  <div>
+    <div style="display: inline_block">
+      <img align="center" alt="Jao-PHP" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+      <img align="center" alt="Jao-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+      <img align="center" alt="Jao-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    </div>
   </div>
