@@ -39,7 +39,6 @@
   <div>
     <img align="center" alt="Brazil" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png">
     <img align="center" alt="USA" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png">
-    <img align="center" alt="Spain" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png">
   </div>
 
 <h3>Currently Studying</h3>
