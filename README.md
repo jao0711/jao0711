@@ -1,8 +1,8 @@
   <h3>About Me</h3>
   <ul>
     <li>👨🏻‍💻 Actually working with software development and data science</li>
-    <li>🔍 Discovering the world of Machine Learning</li>
-    <li>🤯 Looking to become a full stack</li>
+    <li>🔍 In love with the world of Machine Learning</li>
+    <li>🤯 Looking to become a data analyst</li>
     <li>📍 Santa Catarina, Brazil</li>
   </ul>
 
