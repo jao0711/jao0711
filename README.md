@@ -10,7 +10,6 @@
   <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jaozzy&show_icons-true&theme=dracula&include_all_comits-true&count_private-true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaozzy&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaozzy&theme=dark" alt="jaozzy" />
   </div>
 
   <h3>Contact</h3>
