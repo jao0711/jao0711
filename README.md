@@ -1,5 +1,6 @@
-  <h3>About Me</h3>
+<h3>About Me</h3>
   <ul>
+    <li> Full Stack Developer
     <li>👨🏻‍💻 Actually working with software development and data science</li>
     <li>🔍 In love with the world of Machine Learning</li>
     <li>🤯 Looking to become a data analyst</li>
@@ -48,5 +49,7 @@
     <div style="display: inline_block">
       <img align="center" alt="Jao-PHP" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
       <img align="center" alt="Jao-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+      <img align="center" alt="Jao-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+      <img align="center" alt="Jao-JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
     </div>
   </div>
