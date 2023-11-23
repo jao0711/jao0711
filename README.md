@@ -1,6 +1,5 @@
 <h3>About Me</h3>
   <ul>
-    <li> Full Stack Developer
     <li>👨🏻‍💻 Currently working with web development and data science</li>
     <li>🔍 In love with the world of Machine Learning</li>
     <li>🤯 Looking to become a data analyst</li>
