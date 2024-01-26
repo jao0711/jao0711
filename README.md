@@ -34,6 +34,7 @@
       <img align="center" alt="Jao-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
       <img align="center" alt="Jao-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
       <img align="center" alt="Jao-Post" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+      <img align="center" alt="Jao-Node" height="30 width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
     </div>
   </div>
 
